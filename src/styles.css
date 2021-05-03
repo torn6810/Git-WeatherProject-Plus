@@ -20,7 +20,7 @@ ul{
     list-style: none;
     color: grey;
 }
-div, span {
+div, span, footer {
     display: block;
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
